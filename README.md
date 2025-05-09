@@ -1,4 +1,5 @@
-![Duck Hunt Gameplay]([DuckHunt.jpg](https://www.nintendo.com/es-es/Juegos/NES/Duck-Hunt-946955.html)) 
+![Duck Hunt Gameplay](DuckHunt.jpg)
+
 
 Este proyecto es una versión mejorada del clásico **Duck Hunt**, desarrollada como parte de la materia **Procesamiento Digital de Señales (PDI)**.
 
