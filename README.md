@@ -1,6 +1,4 @@
-# 🎯 Duck Hunt – Controlado por cámara con OpenCV
-
-![Duck Hunt Gameplay](DuckHunt.jpg)
+![Duck Hunt Gameplay](DuckHunt.jpg) ![alt text](DuckHunt-1.jpg)
 
 Este proyecto es una versión mejorada del clásico **Duck Hunt**, desarrollada como parte de la materia **Procesamiento Digital de Señales (PDI)**.
 
@@ -68,6 +66,13 @@ Gracias a la integración con OpenCV, el sistema reconoce la mano en pantalla y 
 - Basado en el proyecto original de **Duck Hunt en Pygame**
 - Adaptado e implementado por [Tu Nombre o GitHub]
 - Curso: Procesamiento Digital de Señales (PDI) – 2024
+
+---
+
+## 📌 Notas
+
+- Puede requerir buena iluminación para mejorar el seguimiento.
+- Compatible con sistemas operativos que soporten Pygame y OpenCV.
 
 ---
 
